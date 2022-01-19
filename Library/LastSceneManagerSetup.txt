@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/OTRABOTKA 14-16/Scene/Lesson.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
